@@ -1,0 +1,39 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "color": "red",
+      "text": "The card"
+    },
+    {
+      "id": 2,
+      "color": "yellow",
+      "text": "Second card"
+    },
+    {
+      "id": 4,
+      "color": "#ca1c9b",
+      "text": "card 4"
+    },
+    {
+      "id": 5,
+      "color": "blue",
+      "text": "card 5"
+    },
+    {
+      "id": 6,
+      "color": "#16dacd",
+      "text": "card"
+    }
+  ],
+  "colors": [
+    "red",
+    "blue",
+    "green",
+    "yellow",
+    "#140f0f",
+    "#ca1c9b",
+    "#f35512",
+    "#16dacd"
+  ]
+}
